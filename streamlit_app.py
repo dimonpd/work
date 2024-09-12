@@ -1,6 +1,6 @@
 import streamlit as st
 import joblib
-
+import streamlit.components.v1 as components
 
 rf = joblib.load('rf_model.joblib')
 # Создайте форму для ввода данных
