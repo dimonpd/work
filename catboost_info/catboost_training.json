@@ -1,0 +1,6 @@
+{
+"meta":{"test_sets":[],"test_metrics":[],"learn_metrics":[{"best_value":"Min","name":"RMSE"}],"launch_mode":"Train","parameters":"","iteration_count":2,"learn_sets":["learn"],"name":"experiment"},
+"iterations":[
+{"learn":[302.6170932],"iteration":0,"passed_time":0.005804068529,"remaining_time":0.005804068529},
+{"learn":[287.5908244],"iteration":1,"passed_time":0.01068658839,"remaining_time":0}
+]}
